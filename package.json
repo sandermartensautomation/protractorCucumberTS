@@ -1,0 +1,21 @@
+{
+  "name": "protractorCucumberTS",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/chai": "^4.2.5",
+    "@types/cucumber": "^6.0.0",
+    "@types/node": "^12.12.9",
+    "chai": "^4.2.0",
+    "cucumber": "^6.0.5",
+    "protractor-cucumber-framework": "^6.2.0",
+    "typescript": "^3.7.2"
+  }
+}
